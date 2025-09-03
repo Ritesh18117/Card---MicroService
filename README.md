@@ -3,4 +3,5 @@ Card Microservice which is well structured with industry standard.
 
 CheckOut:
 
-<img width="509" height="597" alt="image" src="https://github.com/user-attachments/assets/80c8b656-36fa-45e0-b419-810aeb04c6f9" />
+<img width="629" height="704" alt="image" src="https://github.com/user-attachments/assets/4acd9af6-4109-40c9-81d1-624120bb5503" />
+
